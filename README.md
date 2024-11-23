@@ -68,6 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Eventi" 
-"# tst" 
-"# tst" 
+note:this is just a first prototype no data fetched we put an array of users to test the login and signin functionnalities also if you click on the profile icon
+while logged in it will simulate the logout
